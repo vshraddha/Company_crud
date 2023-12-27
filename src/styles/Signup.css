@@ -1,0 +1,44 @@
+.form {
+    margin-top: 8rem;
+}
+
+.button {
+    margin-top: 1.5rem;
+}
+
+.heading {
+    color: rgb(247, 247, 17);
+}
+
+.btn {
+    padding: 0.5rem;
+    width: 5rem;
+    border-radius: 4rem;
+    background-color: rgb(247, 247, 17);
+    font-weight: bold;
+    border: none;
+}
+
+.para {
+    color: rgb(247, 247, 17);
+    margin-left: -8rem;
+    font-weight: bold;
+
+}
+
+.field {
+    padding: 0.6rem;
+    width: 12rem;
+    border: 1px solid rgb(247, 247, 17);
+    background-color: transparent;
+    border-radius: 0.2rem;
+
+}
+
+.field::placeholder {
+    color: white;
+}
+
+.field[type="text"] {
+    color: white;
+}

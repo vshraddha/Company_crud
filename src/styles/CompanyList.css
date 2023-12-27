@@ -1,0 +1,45 @@
+.heading {
+    color: rgb(247, 247, 17);
+}
+
+.complist ul li {
+    display: inline-block;
+    border: 1px solid black;
+    padding: 5px;
+    width: 150px;
+    border-color: rgb(233, 233, 111);
+
+}
+
+input::placeholder {
+    font-size: 0.9rem;
+    color: black;
+    font-weight: 400;
+}
+
+.complist ul {
+    margin: 3px;
+    color: yellow;
+
+}
+
+.search {
+    width: 200px;
+    margin: 20px;
+    height: 30px;
+    border: none;
+    padding-left: 10px;
+    background-color: rgb(201, 194, 194);
+}
+
+.search {
+    border-radius: 1rem;
+    width: 30%;
+    background-color: none;
+
+
+}
+
+.icon {
+    font-size: 20rem;
+}

@@ -1,0 +1,38 @@
+.company {
+    display: flex;
+    flex-direction: column;
+    width: 12rem;
+    margin: auto;
+    margin-top: 3rem;
+    gap: 2rem;
+
+}
+
+.heading1 {
+    margin-left: 2rem;
+    color: yellow;
+}
+
+.invalid {
+    color: red;
+    margin-top: -21px;
+    margin-left: -2rem;
+    width: 12rem;
+}
+
+input {
+    padding: 6px;
+    border-radius: 0.2rem;
+    width: 15rem;
+    background-color: rgb(243, 243, 134);
+    border: none;
+}
+
+.buttn {
+    background-color: yellow;
+    width: 60%;
+    border-radius: 2rem;
+    padding: 0.3rem;
+    margin-left: 4rem;
+    border: none;
+}

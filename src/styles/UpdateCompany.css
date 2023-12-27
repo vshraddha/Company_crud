@@ -1,0 +1,17 @@
+.update {
+    display: flex;
+    flex-direction: column;
+    width: 12rem;
+    margin: auto;
+    margin-top: 3rem;
+    gap: 2rem;
+
+}
+
+input {
+    background-color: rgb(243, 243, 134);
+    padding: 6px;
+    border-radius: 0.2rem;
+    width: 15rem;
+    border: none;
+}
